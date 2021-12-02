@@ -1,0 +1,21 @@
+{
+  "name": "elasticsearch-builder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "serve dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bodybuilder": "^2.4.0"
+  },
+  "devDependencies": {
+    "serve": "^12.0.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
